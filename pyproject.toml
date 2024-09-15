@@ -1,0 +1,7 @@
+[project]
+name = "january-py"
+version = "0.0.1"
+description = "A easier way to connect to january's api"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
